@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.0](https://github.com/kustomhippie/reloader/compare/v1.0.3...v2.0.0) (2023-07-17)
+
+
+### Features
+
+* **major:** update actionhippie/kustomize action to v2 ([ac13cd2](https://github.com/kustomhippie/reloader/commit/ac13cd200e0fe50f77267ecdc25edcc1b2f86c90))
+
 ## [1.0.3](https://github.com/kustomhippie/reloader/compare/v1.0.2...v1.0.3) (2023-07-03)
 
 
