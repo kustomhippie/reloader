@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.0.30](https://github.com/kustomhippie/reloader/compare/v2.0.29...v2.0.30) (2024-04-29)
+
+
+### Bugfixes
+
+* **deps:** update stakater/reloader docker tag to v1.0.82 ([58bb9d0](https://github.com/kustomhippie/reloader/commit/58bb9d08a3c1b3313eca582a8fa28b852f3e189f))
+* **deps:** update stakater/reloader docker tag to v1.0.83 ([19151e1](https://github.com/kustomhippie/reloader/commit/19151e11d0b9582cbac97f581b063b3b4a0407ee))
+* **deps:** update stakater/reloader docker tag to v1.0.88 ([196a241](https://github.com/kustomhippie/reloader/commit/196a241c35928cd0b1558267ee0217a64d5bd202))
+* **deps:** update stakater/reloader docker tag to v1.0.89 ([c0100be](https://github.com/kustomhippie/reloader/commit/c0100bebc958ec40c0a88a6286a05aa94dc9c04f))
+* **deps:** update stakater/reloader docker tag to v1.0.91 ([3a6efc7](https://github.com/kustomhippie/reloader/commit/3a6efc74ebebc7b32607e7acfceb7a5d6e3fda59))
+* **deps:** update stakater/reloader docker tag to v1.0.93 ([a26e2ee](https://github.com/kustomhippie/reloader/commit/a26e2ee179f5a91feee2197fe457715365df2dbe))
+
 ## [2.0.29](https://github.com/kustomhippie/reloader/compare/v2.0.28...v2.0.29) (2024-04-22)
 
 
