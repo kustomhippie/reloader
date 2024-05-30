@@ -8,6 +8,6 @@ resources:
 images:
   - name: reloader-operator
     newName: stakater/reloader
-    newTag: "v1.0.100"
+    newTag: "v1.0.101"
 
 ...
